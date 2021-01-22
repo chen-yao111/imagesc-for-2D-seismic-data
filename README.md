@@ -21,8 +21,10 @@ return: a figure.
 print(data.shape)
 imagesc(data)
 ```
-![Image text](https://github.com/chen-yao111/imagesc-for-2D-seismic-data/blob/main/image/original_data.png)
+
 (128, 128)
+
+![Image text](https://github.com/chen-yao111/imagesc-for-2D-seismic-data/blob/main/image/original_data.png)
 
 
 ## Enviroment Requirement
