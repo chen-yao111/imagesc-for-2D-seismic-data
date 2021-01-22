@@ -22,9 +22,11 @@ print(data.shape)
 imagesc(data)
 ```
 (128, 128)
-![20bdfb3fc4ecd008e9ff9f50e03408d1.png](en-resource://database/497:0)
+
 
 ## Enviroment Requirement
 numpy
+
 matplotlib
+
 seaborn
